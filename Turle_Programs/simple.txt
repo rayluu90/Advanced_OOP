@@ -1,0 +1,26 @@
+$variable = 5
+
+penUp
+
+turn 90
+
+move $variable
+
+$variable = 10
+
+$newVariable = $variable
+
+move $newVariable	
+	
+
+
+
+
+
+
+
+
+
+
+
+

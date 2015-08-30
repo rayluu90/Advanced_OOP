@@ -1,0 +1,21 @@
+
+penUp
+
+$distance = 10 
+$loop = 1
+$degree = 90
+
+move $distance
+
+turn $degree
+
+repeat $loop
+	repeat 2
+		repeat 5
+			move $distance
+		end
+	end
+	turn $degree
+end
+
+penDown
